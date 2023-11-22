@@ -1,5 +1,5 @@
 ### Olá, eu me chamo Marcelo N. Aggio ✌️
-Sou Tecnico em Informatica para internet - Senac
+Sou Formado em Tecnico em Informatica para internet - Senac
 <br>
 Programador Web Java - Proa
 <br>
