@@ -1,4 +1,6 @@
 ### Olá, eu me chamo Marcelo N. Aggio ✌️
+Sou Tecnico em Informatica para internet - Senac
+Programador Web Java - Proa
 Tenho 17 anos e Sou Estudante de Programação Web
 Meu Portifolio: https://marceloaggio.netlify.app/
 
