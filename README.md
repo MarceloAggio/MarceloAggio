@@ -1,17 +1,8 @@
 # Olá, eu sou Marcelo N. Aggio! ✌️
 
-<div style="animation: bounce 2s infinite;">Sou formado em Técnico em Informática para Internet pelo Senac e Programador Web Java pelo Proa. Com 17 anos, sou um entusiasta da programação web, buscando constantemente aprimorar minhas habilidades.</div>
+Sou formado em Técnico em Informática para Internet pelo Senac e Programador Web Java pelo Proa. Com 17 anos, sou um entusiasta da programação web, buscando constantemente aprimorar minhas habilidades.
 
 ## Portfólio
-
-
-<style>
-  @keyframes bounce {
-    0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
-    40% { transform: translateY(-20px); }
-    60% { transform: translateY(-10px); }
-  }
-</style>
 
 Confira meu portfólio em [marceloaggio.netlify.app](https://marceloaggio.netlify.app/).
 
