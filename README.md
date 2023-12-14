@@ -1,6 +1,6 @@
 # Olá, eu sou Marcelo N. Aggio! ✌️
 
-Sou formado em Técnico em Informática para Internet pelo Senac e Programador Web Java pelo Proa. Com 17 anos, sou um entusiasta da programação web, buscando constantemente aprimorar minhas habilidades.
+Sou formado em Técnico em Informática para Internet pelo Senac e Programador Web Java pelo Proa. Sou um entusiasta da programação web, buscando constantemente aprimorar minhas habilidades.
 
 ## Portfólio
 
