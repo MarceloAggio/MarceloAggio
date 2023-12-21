@@ -28,6 +28,4 @@ Confira meu portfólio em [marceloaggio.netlify.app](https://marceloaggio.netlif
 
 Estou sempre em busca de novos desafios e aprendizados. Vamos construir algo incrível juntos!
 
----
-
-*Licença para os distintivos de tecnologia fornecidos por [shields.io](https://shields.io/).*
+#opentowork
