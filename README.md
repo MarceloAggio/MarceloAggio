@@ -20,12 +20,10 @@ Confira meu portfólio em [marceloaggio.netlify.app](https://marceloaggio.netlif
 ## Tecnologias que Uso no Dia a Dia
 
 - **Web Development:** HTML5, CSS3, JavaScript
-- **Frameworks:** Bootstrap, jQuery, React, TailwindCSS
-- **Back-End:** Java, PHP, NodeJS, Python
+- **Frameworks:** Bootstrap, React, TailwindCSS
+- **Back-End:** Java & NodeJS
 - **Mobile Development:** React Native
-- **Database:** MySQL
-- **Tools:** Trello, Power BI, Postman
+- **Database:** MySQL , MongoDB
+- **Tools:** Trello, Postman , Insomnia
 
 Estou sempre em busca de novos desafios e aprendizados. Vamos construir algo incrível juntos!
-
-#opentowork
